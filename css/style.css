@@ -1,0 +1,110 @@
+
+@font-face {
+    font-family: 'San_Francisco_pro';
+    src: url('../fonts/sf-pro-text-bold-webfont.woff2') format('woff2'),
+    url('../fonts/sf-pro-text-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'San_Francisco_pro';
+    src: url('../fonts/sf-pro-text-heavy-webfont.woff2') format('woff2'),
+    url('../fonts/sf-pro-text-heavy-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'San_Francisco_pro';
+    src: url('../fonts/sf-pro-text-light-webfont.woff2') format('woff2'),
+    url('../fonts/sf-pro-text-light-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'San_Francisco_pro';
+    src: url('../fonts/sf-pro-text-lightitalic-webfont.woff2') format('woff2'),
+    url('../fonts/sf-pro-text-lightitalic-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'San_Francisco_pro';
+    src: url('../fonts/sf-pro-text-medium-webfont.woff2') format('woff2'),
+    url('../fonts/sf-pro-text-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'San_Francisco_pro';
+    src: url('../fonts/sf-pro-text-mediumitalic-webfont.woff2') format('woff2'),
+    url('../fonts/sf-pro-text-mediumitalic-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'San_Francisco_pro';
+    src: url('../fonts/sf-pro-text-regular-webfont.woff2') format('woff2'),
+    url('../fonts/sf-pro-text-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'San_Francisco_pro';
+    src: url('../fonts/sf-pro-text-regularitalic-webfont.woff2') format('woff2'),
+    url('../fonts/sf-pro-text-regularitalic-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'San_Francisco_pro';
+    src: url('../fonts/sf-pro-text-semibold-webfont.woff2') format('woff2'),
+    url('../fonts/sf-pro-text-semibold-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: San_Francisco_pro,sans-serif;
+}
